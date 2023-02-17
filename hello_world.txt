@@ -1,2 +1,3 @@
-HALO TURI
-IM CODING OR MAYBE NOTE
+#git_test
+Hello world!
+Hello odin project!
